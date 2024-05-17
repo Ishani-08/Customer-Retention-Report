@@ -3,7 +3,7 @@ This is an individual project using PowerBi where I have created an interactive 
 
 In this project I have:
   - Used various parameters to drill down into the worksheet and customize it using filters and slicers.
-  - Used different types of customized visualizations like bar charts, pie charts, maps and cards.
+  - Used different types of customized visualizations like bar charts, pie charts, line charts and cards.
   - Performed calculations to manipulate data.
     
 Using the aforementioned parameters I was able to analyse the following KPIs:
