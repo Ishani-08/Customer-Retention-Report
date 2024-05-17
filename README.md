@@ -13,7 +13,7 @@ Using the aforementioned parameters I was able to analyse the following KPIs:
   - Services customers signed up for
   - Net monthly and yearly charges
 
-***Global Superstore.xlsx*** contains the dataset for this project. **Here is a screenshot of how the dataset looks like.**
+***02 Churn-Dataset.xlsx*** contains the dataset for this project. **Here is a screenshot of how the dataset looks like.**
 
 ![image](https://github.com/Ishani-08/Customer-Retention-Report/assets/85501878/c5073b01-a1a3-4aa1-a34b-2c70636dec51)
 
